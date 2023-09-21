@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://650c368734b6d721bc2568a8--curious-dieffenbachia-6b4f58.netlify.app/](https://your-live-site-url.com)
+- Live Site URL: [https://curious-dieffenbachia-6b4f58.netlify.app/](https://your-live-site-url.com)
 
 ## My process
 
